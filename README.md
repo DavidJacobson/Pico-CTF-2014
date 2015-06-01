@@ -1,11 +1,9 @@
-# Pico-CTF-2014
-Writeup from PicoCTF 2014
-
-Originally had this on my website, but now I’m moving it here
 
 PicoCTF 2014
 ===================
+Writeup from PicoCTF 2014
 
+Originally had this on my website, but now I’m moving it here
 Intro
 ------
 PicoCTF ran from October 27to  November 7. From PicoCTF's website:
