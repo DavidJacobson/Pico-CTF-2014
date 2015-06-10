@@ -4,6 +4,12 @@ PicoCTF 2014
 Writeup from PicoCTF 2014
 
 Originally had this on my website, but now I’m moving it here
+
+**Update**
+
+I owe a Thank you to the people who ran PicoCTF, students of CMU for the wonderful t-shirt I received. They sent shirts to the top 125 teams for free.
+
+
 Intro
 ------
 PicoCTF ran from October 27to  November 7. From PicoCTF's website:
